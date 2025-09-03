@@ -1,0 +1,53 @@
+.mumbai-live-container {
+  display: flex;
+  height: 85vh;
+  background: #f9f9f9;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+.map-section {
+  flex: 2;
+}
+
+.alerts-section {
+  flex: 1;
+  background: #ffffff;
+  padding: 20px;
+  overflow-y: auto;
+  border-left: 1px solid #ddd;
+}
+
+.alerts-section h2 {
+  font-size: 1.2rem;
+  margin: 15px 0 10px;
+  color: #d32f2f;
+}
+
+.alerts-list, .train-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.alert-item {
+  background: #fff4f4;
+  border: 1px solid #ffcdd2;
+  border-radius: 8px;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+
+.alert-category {
+  font-weight: bold;
+  color: #c62828;
+  display: block;
+}
+
+.weather-card {
+  background: #e3f2fd;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #90caf9;
+}
