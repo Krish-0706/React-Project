@@ -179,7 +179,7 @@ function App() {
     <div className="app-wrapper">
       {/* Header */}
       <header className="header">
-        <div className="logo">🚦 Urban Rush AI</div>
+        <div className="logo">🚦 Urban Rush </div>
         <nav className="nav">
           <Link to="/dashboard" className="nav-link">Dashboard</Link>
           <Link to="/mumbai-live" className="nav-link">Mumbai Live</Link>
