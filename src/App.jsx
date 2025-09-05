@@ -14,7 +14,6 @@ function Dashboard() {
   const [routeSummary, setRouteSummary] = useState(null);
   const [loading, setLoading] = useState(false);
 
-  // Geocode using Nominatim
   const geocode = async (place) => {
     const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(place)}&limit=1&countrycodes=in`;
     const { data } = await axios.get(url, {
