@@ -25,18 +25,7 @@ _A Smart Traffic Congestion Prediction and Analytics Dashboard_
 Using **live traffic data APIs**, the dashboard identifies congestion zones, predicts traffic patterns, and provides actionable insights for better urban mobility.  
 
 > 🎯 _Goal:_ To reduce urban traffic congestion through smart analytics, AI predictions, and real-time data visualization.
-
----
-
-## ✨ Features  
-- 🗺️ **Interactive Map View** using **Leaflet + TomTom API**  
-- 🚗 **Real-Time Traffic Overlay** with congestion intensity  
-- 🧮 **AI-Based Prediction Engine** for upcoming traffic trends  
-- 📊 **Admin Dashboard** with statistical visualizations and analytics  
-- 📍 **Geo-location Support** for live area tracking  
-- 🔔 **Traffic Alerts and Warnings** system  
-- 🧰 **User and Admin Panels** for access control  
-
+ 
 ---
 
 ## 🛠 Tech Stack  
@@ -96,7 +85,4 @@ git commit -m "Add a new feature"
 # Push to the branch
 git push origin feature-name
 
-## Contact:
-👨‍💻 Krish Dubey
-🐙 GitHub - https://github.com/Krish-0706
-💼 LinkedIn - https://www.linkedin.com/in/krish-dubey-2719a12a2/
+
