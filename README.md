@@ -96,7 +96,7 @@ git commit -m "Add a new feature"
 # Push to the branch
 git push origin feature-name
 
-Contact:
+## Contact:
 👨‍💻 Krish Dubey
 🐙 GitHub - https://github.com/Krish-0706
 💼 LinkedIn - https://www.linkedin.com/in/krish-dubey-2719a12a2/
