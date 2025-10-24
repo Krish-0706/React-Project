@@ -36,7 +36,9 @@ Using **live traffic data APIs**, the dashboard identifies congestion zones, pre
 **AI Engine:** Python (Traffic Prediction Model)  
 **APIs Used:**  
 - TomTom API (Real-time traffic flow and incidents)  
-- Geoapify (Mapping and Routing)  
+- Geoapify (Mapping and Routing)
+- OpenWeatherMap (Real-time weather tracking)
+- -OpenStreetMap(Map)
 
 ---
 
